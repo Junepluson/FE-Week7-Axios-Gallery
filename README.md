@@ -2,6 +2,8 @@
 
 지금까지 배운 모든 개념을 활용하여 게시판 기능을 하 간단한 갤러리를 만듭니다.
 
+
+
 ## ❍ 목표
 
 - 실제 동작하는 간단한 멀티페이지 웹 어플리케이션을 개발할 수 있다.
@@ -13,7 +15,6 @@
 - Styled Components ([styled-components](https://styled-components.com/docs/basics#installation))
 - Axios ([axios](https://axios-http.com/kr/docs/intro))
 
-
 ## ❍ 기능
 
 아래 기능을 모두 준수하도록 구현합니다.
@@ -22,6 +23,7 @@
 2. 이미지를 클릭하면, REST API를 사용하여 해당 이미지에 달린 댓글 목록을 불러와 사용자에게 표시합니다.
 3. REST API를 사용하여 댓글을 새로 작성할 수 있습니다.
 4. REST API를 사용하여 댓글을 삭제할 수 있습니다.
+
 
 
 
