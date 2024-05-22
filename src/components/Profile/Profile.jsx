@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { styled } from 'styled-components';
-import lionheart from '../../assets/heart.jpg';
+import inhalion from '../../assets/inhalion.png';
 import Typo from '../Typo/Typo';
 import Margin from '../Margin/Margin';
 import { getArticleListLength } from '../../apis/article';
@@ -30,7 +30,7 @@ const Profile = () => {
 
   return (
     <ProfileWrapper>
-      <ProfileImage src={lionheart} />
+      <ProfileImage src={inhalion} />
       <Margin width='20' />
 
       <div>

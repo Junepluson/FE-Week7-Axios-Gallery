@@ -29,7 +29,8 @@
 
 # 🎯 필수 구현 사항
 
-![](./example.jpg)
+<img width="100%" alt="sample1" src="https://github.com/likelion-Inha-12/FE-Week7-Axios-Gallery-release/assets/129278491/846e02f0-d81d-4545-a7b0-e592fa8efc6d">
+
 
 1. 전체 이미지의 개수를 출력합니다.
 2. 여러 이미지들을 **Grid** 형태로 이미지, 제목, 설명을 함께 표시합니다.
@@ -39,13 +40,15 @@
 6. 삭제 버튼을 클릭하면 해당 댓글을 삭제하고, 댓글 목록을 다시 불러옵니다.
 
 
-## ❍ 선택 구현 사항
+<img width="100%" alt="sample2" src="https://github.com/likelion-Inha-12/FE-Week7-Axios-Gallery-release/assets/129278491/53cb90ee-5787-48bc-9dc8-d225dabf6a25">
 
-![](./more.jpeg)
+
+
+7. 게시글에 달린 총 댓글 개수를 띄워봅시다.
+8. 잘못된 경로로 접속할 시 띄울 에러 페이지와 뒤로가기 버튼을 만들어봅시다.
 
 - 기타 디자인과 레이아웃은 원본과 요구사항과 크게 다르지 않은 범위에서 **원하는대로** 만드셔도 좋습니다.
-- 잘못된 경로로 접속할 시 띄울 에러 페이지와 뒤로가기 버튼을 만들어봅시다.
-- 게시글에 달린 총 댓글 개수를 띄워봅시다.
+
 
 
 
@@ -57,10 +60,9 @@
 
 ## ❍ API
 
-요청을 위한 호스트 정보와 문서는 아래와 같습니다.
+요청을 위한 호스트 문서는 아래와 같습니다.
 
-- **HOST**: https://gallery.jmoomin.com
-- **DOCS** : http://43.201.95.115:8080/swagger-ui/index.html#/GalleryController
+- **DOCS** : http://3.36.127.43:8080/swagger-ui/#/GalleryController
 
 
 ## 참고자료
