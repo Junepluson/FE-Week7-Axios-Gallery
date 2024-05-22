@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c239954e.js",
+    "static/media/inhalion.png": "/static/media/inhalion.9b7b3f8daa3f7f886e17.png",
+    "static/media/realion.jpeg": "/static/media/realion.1dc1aa9db4cac367582d.jpeg",
+    "index.html": "/index.html",
+    "main.c239954e.js.map": "/static/js/main.c239954e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c239954e.js"
+  ]
+}
